@@ -3,5 +3,7 @@
 
 int main()
 {
-    int
+    int c;
+    printf("%d" , c);
+    return 0;
 }
